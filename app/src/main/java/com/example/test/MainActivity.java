@@ -134,7 +134,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
         // 这里填你需要打包的 H5 页面链接
-        webView.loadUrl("http://222.187.238.249:51234/app/kt_ai/h5/?wid=1#/");
+        webView.loadUrl("https://www.baidu.com/");
 
         //显示一些小图片（头像）
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
