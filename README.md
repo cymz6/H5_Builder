@@ -1,6 +1,6 @@
 # H5_Builder 将H5网页一键编译成 Android APK 。
 ### 食用
-1.Fork本仓库，修改project-to-build中的地址为你仓库中本项目的地址(其它Android也有可能适用，请自测)。
+1.Fork本仓库，修改project-to-build中的地址为你仓库中本项目的地址(其它Android项目也有可能适用，请自测)。
 
 2.将 `app/java/com.example.test/MainActivity.java` 里面第137行的 `url` 改成你要打包的网页地址。
 
